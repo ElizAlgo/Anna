@@ -1,0 +1,50 @@
+<html>
+  <title>новый год </title>
+  <body>
+      <a href="https://imgbb.com/"><img src="https://i.ibb.co/K2rd901/Untitled.png" alt="Untitled" border="0" width="50px" height="50px"></a>
+      <header style="background-color:darkgreen;color:black">
+      <a href="#food" style="color:white; font size:40px;">салаты</a>
+      <a href="#game" style="color:white; font size:40px;">новогодние игры</a>
+      </header>  
+      <h2 id="game"> новогодние игры </h2>
+         <p> «Мафия»</p>
+         <p>«Тарантинки»</p>
+         <p>«Новогодние фанты»</p>
+         <p>«Я никогда не… »</p>
+         <p>Крокодил»</p>
+         <p>«Монополия»</p>
+         <p>«Нарядный банан»</p>
+        <p> «Снежная баба»</p>
+        <img src="https://kidpassage.com/images/publications/detskie-novogodnie-igryi/detskie-novogodnie-igryi-photo1_321204147.jpg"width="1020px" height="630px"/>
+        <h2 id="food"> салаты</h2>
+        <p>Всем знакомый салат, подходящий для праздничного стола по любому поводу. Салат Мимоза - классический рецепт салата лёгкий в приготовлении и невероятно нежный на вкус. </p>
+        <p>Салат Грибная поляна - это очень вкусный и нарядный салатик к празднику. Салат выглядит настолько эффектно, что у ваших гостей останется только один выход - быть в восторге! </p>
+        <p>Есть рецепты салатов, которые считаются классическими для русской кухни. Их готовят на любые праздники в больших количествах, так как они до сих пор любимы и популярны. Делюсь одной из таких вариаций. </p>
+         <p>Для того, чтобы Новый 2025-ый год оказался для вас удачным, рекомендую на праздничный стол приготовить салат «Змейка. Наступающий год будет годом Змеи, задобрите её в новогоднюю ночь.</p>
+         <p>Ни одно праздничное застолье не обходится без разнообразных салатов. Самым популярным среди них был и есть салат "Оливье" в разных его вариациях. Сегодня предлагаю классический вариант этого салата.</p>
+         <img src="https://s11.stc.all.kpcdn.net/family/wp-content/uploads/2022/10/top-salaty-na-novyj-god-960h540-960x540.jpg"/>
+
+      <table style="border:1px solid green">
+            <h1>Виды подарков</h1>
+          <tr style="border:1px solid green">
+            <td style="border:1px solid green">детям</td>
+            <td style="border:1px solid green">подросткам</td>
+            <td style="border:1px solid green">взорслым</td>
+            <td style="border:1px solid green">пожилым людям</td>
+        </tr>
+          <tr style="border:1px solid green">
+            <td style="border:1px solid green">развивающие игры</td>
+            <td style="border:1px solid green">планшет</td>
+            <td style="border:1px solid green">настольные игры</td> 
+            <td style="border:1px solid green">книга</td>
+          </tr>
+          <tr style="border:1px solid green">
+            <td style="border:1px solid green">мягкие игрушки</td>
+            <td style="border:1px solid green">необычную еду</td>
+            <td style="border:1px solid green">часы,наушники</td> 
+            <td style="border:1px solid green">чай с конфетами</td>
+          </tr>
+       </table>
+        <footer style="background-color:darkgreen;color:white">продолжение следует</footer>
+   </body>
+</html>
